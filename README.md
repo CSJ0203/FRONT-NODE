@@ -26,4 +26,4 @@ Chrome V8 JavaScript 엔진으로 빌드된 `JavaScript 런타임`</br>(프로�
 - 설치된 내용들은 node_modules로 들어가게 됨
 - 그 내역은 package.json의 devDependencies랑 dependencies에 명시되게 됨
 - 걔들이 내부적으로 사용하는 또다른 패키지들은 lock.json에 기재
----
+--- 
